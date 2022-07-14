@@ -1,0 +1,17 @@
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/RESTAPIExtensions.dll
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/RESTAPIExtensions.pdb
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/HttpServer.dll
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/OTAPI.dll
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/TerrariaServer.exe
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/TShockAPI.dll
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/Newtonsoft.Json.dll
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/HttpServer.pdb
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/HttpServer.xml
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/OTAPI.pdb
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/TerrariaServer.pdb
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/bin/Debug/Newtonsoft.Json.xml
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/obj/Debug/RESTAPIExtensions.csprojAssemblyReference.cache
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/obj/Debug/RESTAPIExtensions.csproj.CoreCompileInputs.cache
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/obj/Debug/RESTAPIExtensions.csproj.CopyComplete
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/obj/Debug/RESTAPIExtensions.dll
+/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/RESTAPIExtensions/obj/Debug/RESTAPIExtensions.pdb
