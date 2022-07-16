@@ -33,11 +33,11 @@ namespace RESTAPIExtensions
             string player = args.Request.Parameters["player"];//args.Parameters["player"];
             if (player == null)
             {
-                return new RestObject("403")
+                return new RestObject("400")
                 {
                     {
                         "response",
-                        "缺少必要参数"
+                        "缺少必要参数player"
                     }
                 };
             }
