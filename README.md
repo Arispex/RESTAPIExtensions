@@ -8,5 +8,6 @@ put it to server's ServerPlugin file folder.
 ## Update
 2022/07/17(v1.1)
 + added a new rest api to get world's progress.(/world/progress)
+
 2022/07/16(v1.0.1)
 + fixed a error that status code is wrong.
