@@ -56,95 +56,30 @@ namespace RESTAPIExtensions
         }
         private object Progress(RestRequestArgs args)//获取进度详情
         {
-            List<Dictionary<string, bool>> progress = new List<Dictionary<string, bool>>(
-                    new Dictionary<string, bool>[]
-                    {
-                        new Dictionary<string, bool>()
-                        {
-                            {"King Slime", NPC.downedSlimeKing} //史莱姆王
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Eye of Cthulhu", NPC.downedBoss1} //克苏鲁之眼
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Eater of Worlds / Brain of Cthulhu", NPC.downedBoss2} //世界吞噬者 或 克苏鲁之脑
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Queen Bee", NPC.downedQueenBee} //蜂后
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Skeletron", NPC.downedBoss3} //骷髅王
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Deerclops", NPC.downedDeerclops} //巨鹿
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Wall of Flesh", Main.hardMode} //肉山
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Queen Slime", NPC.downedQueenSlime} //史莱姆皇后
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"The Twins", NPC.downedMechBoss2} //双子魔眼
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"The Destroyer", NPC.downedMechBoss1} //毁灭者
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Skeletron Prime", NPC.downedMechBoss3} //机械骷髅王
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Plantera", NPC.downedPlantBoss} //世纪之花
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Golem", NPC.downedGolemBoss} //石巨人
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Duke Fishron", NPC.downedFishron} // 朱鲨
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Empress of Light", NPC.downedEmpressOfLight} //光女
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Lunatic Cultist", NPC.downedAncientCultist} //教徒
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Moon Lord", NPC.downedMoonlord} //月总
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Solar Pillar", NPC.downedTowerSolar} //太阳能柱
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Nebula Pillar", NPC.downedTowerNebula} //星云柱
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Vortex Pillar", NPC.downedTowerVortex} //涡柱
-                        },
-                        new Dictionary<string, bool>()
-                        {
-                            {"Stardust Pillar", NPC.downedTowerStardust} //星尘柱
-                        },
-                    }
-                );
+            Dictionary<string, bool> progress = new Dictionary<string, bool>()
+            {
+                {"King Slime", NPC.downedSlimeKing}, //史莱姆王
+                {"Eye of Cthulhu", NPC.downedBoss1}, //克苏鲁之眼
+                {"Eater of Worlds / Brain of Cthulhu", NPC.downedBoss2}, //世界吞噬者 或 克苏鲁之脑
+                {"Queen Bee", NPC.downedQueenBee}, //蜂后
+                {"Skeletron", NPC.downedBoss3}, //骷髅王
+                {"Deerclops", NPC.downedDeerclops}, //巨鹿
+                {"Wall of Flesh", Main.hardMode}, //肉山
+                {"Queen Slime", NPC.downedQueenSlime}, //史莱姆皇后
+                {"The Twins", NPC.downedMechBoss2}, //双子魔眼
+                {"The Destroyer", NPC.downedMechBoss1}, //毁灭者
+                {"Skeletron Prime", NPC.downedMechBoss3}, //机械骷髅王
+                {"Plantera", NPC.downedPlantBoss}, //世纪之花
+                {"Golem", NPC.downedGolemBoss}, //石巨人
+                {"Duke Fishron", NPC.downedFishron}, // 朱鲨
+                {"Empress of Light", NPC.downedEmpressOfLight}, //光女
+                {"Lunatic Cultist", NPC.downedAncientCultist}, //教徒
+                {"Moon Lord", NPC.downedMoonlord}, //月总
+                {"Solar Pillar", NPC.downedTowerSolar}, //太阳能柱
+                {"Nebula Pillar", NPC.downedTowerNebula}, //星云柱
+                {"Vortex Pillar", NPC.downedTowerVortex}, //涡柱
+                {"Stardust Pillar", NPC.downedTowerStardust}, //星尘柱
+            };
             return new RestObject()
             {
                 {
