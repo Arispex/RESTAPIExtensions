@@ -2,4 +2,7 @@
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fjinnanxiang_002FDesktop_002FTerrariaServer_002FHttpServer_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fjinnanxiang_002FDesktop_002FTerrariaServer_002FOTAPI_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fjinnanxiang_002FDesktop_002FTerrariaServer_002FServerPlugins_002FTShockAPI_002Edll/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fjinnanxiang_002FDesktop_002FTerrariaServer_002FTerrariaServer_002Eexe/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fjinnanxiang_002FDesktop_002FTerrariaServer_002FTerrariaServer_002Eexe/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/jinnanxiang/RiderProjects/RESTAPIExtensions/packages/Newtonsoft.Json.13.0.2-beta1/lib/net45/Newtonsoft.Json.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
