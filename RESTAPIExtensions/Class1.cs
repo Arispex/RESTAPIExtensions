@@ -84,7 +84,7 @@ namespace RESTAPIExtensions
             {
                 {
                     "response",
-                    JsonConvert.SerializeObject(progress)
+                     progress
                 }
             };
         }
